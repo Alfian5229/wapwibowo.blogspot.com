@@ -85,14 +85,3 @@ Google Code style (c) Aahan Krish <geekpanth3r@gmail.com>
 .hljs-emphasis {
   font-style: italic;
 }
-
-pre[data-codetype="CSS"]:before{background-color:#006666 !important;}
-pre[data-codetype="CSS"]{border-left:3px solid #006666 !important;}
-pre[data-codetype="HTML"]:before{background-color:#ffcc66 !important;}
-pre[data-codetype="HTML"]{border-left:3px solid #ffcc66 !important;}
-pre[data-codetype="JavaScript"]:before{background-color:#ff6c60 !important;}
-pre[data-codetype="JavaScript"]{border-left:3px solid #ff6c60 !important;}
-pre[data-codetype="JQuery"]:before{background-color:#99c262 !important;}
-pre[data-codetype="JQuery"]{border-left:3px solid #99c262 !important;}
-pre[data-codetype="C"]:before{background-color:#99c262 !important;}
-pre[data-codetype="C"]{border-left:3px solid #99c262 !important;}
